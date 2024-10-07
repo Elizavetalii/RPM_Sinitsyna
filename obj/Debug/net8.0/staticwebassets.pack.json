@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Sinitsyna.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sinitsyna.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\1320799.svg",
+      "PackagePath": "staticwebassets\\1320799.svg"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\css\\dark-theme.css",
+      "PackagePath": "staticwebassets\\css\\dark-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\css\\light-theme.css",
+      "PackagePath": "staticwebassets\\css\\light-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\favicoin.ico",
+      "PackagePath": "staticwebassets\\favicoin.ico"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\1.svg",
+      "PackagePath": "staticwebassets\\media\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\11.png",
+      "PackagePath": "staticwebassets\\media\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\2.svg",
+      "PackagePath": "staticwebassets\\media\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\22.png",
+      "PackagePath": "staticwebassets\\media\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\33.png",
+      "PackagePath": "staticwebassets\\media\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\Коллекция 1.png",
+      "PackagePath": "staticwebassets\\media\\Коллекция 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\Коллекция 11.png",
+      "PackagePath": "staticwebassets\\media\\Коллекция 11.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\Коллекция 2.png",
+      "PackagePath": "staticwebassets\\media\\Коллекция 2.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\Коллекция 3.png",
+      "PackagePath": "staticwebassets\\media\\Коллекция 3.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\Коллекция на главной странице1.png",
+      "PackagePath": "staticwebassets\\media\\Коллекция на главной странице1.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\Коллекция на главной странице2.png",
+      "PackagePath": "staticwebassets\\media\\Коллекция на главной странице2.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\Коллекция на главной странице3.png",
+      "PackagePath": "staticwebassets\\media\\Коллекция на главной странице3.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\бабочка.jpg",
+      "PackagePath": "staticwebassets\\media\\бабочка.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\бренд.png",
+      "PackagePath": "staticwebassets\\media\\бренд.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\бутик.png",
+      "PackagePath": "staticwebassets\\media\\бутик.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\индивидуальность.png",
+      "PackagePath": "staticwebassets\\media\\индивидуальность.png"
+    },
+    {
+      "Id": "C:\\Users\\Liza\\source\\repos\\Sinitsyna\\Sinitsyna\\wwwroot\\media\\кольцо.jpg",
+      "PackagePath": "staticwebassets\\media\\кольцо.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sinitsyna.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Sinitsyna.props",
+      "PackagePath": "build\\Sinitsyna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Sinitsyna.props",
+      "PackagePath": "buildMultiTargeting\\Sinitsyna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Sinitsyna.props",
+      "PackagePath": "buildTransitive\\Sinitsyna.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
