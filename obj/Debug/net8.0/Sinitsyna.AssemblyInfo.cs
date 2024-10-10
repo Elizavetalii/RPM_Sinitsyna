@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sinitsyna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f10b1cd9fefebee102af47ce12e1b32f19542c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7348a50671610708ae18bbc7c12fa6328aef08cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sinitsyna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sinitsyna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
